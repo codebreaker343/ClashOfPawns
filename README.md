@@ -10,3 +10,7 @@ The rules of the game are given in the file 'rules_and_guides.zip'
 $ java -jar COP.jar
 (Linux Only)
 2. Open the code (bot.c) from the arena 
+
+# Files
+The 'bot.c' file is the AI bot
+The 'dummy.cpp' file is a bot which plays the moves randomly
